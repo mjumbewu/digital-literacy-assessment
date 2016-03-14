@@ -6,6 +6,7 @@ This is used to assess a students level of digital literacy and gain a baseline 
 
 ## Assessment
 
-*Basic computer operation*
+### Basic computer operation
 
-- [ ] Can you turn the computer on?
+- [ ] Can the student turn the computer on and login?
+- [ ] Can the student navigate to the computer's downloads folders?
