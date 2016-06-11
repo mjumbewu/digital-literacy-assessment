@@ -33,6 +33,7 @@ This is used to assess a student's level of digital literacy and gain a baseline
 - [ ] Launch Google Chrome - 5 pts
 - [ ] Identify the address bar in Google Chrome - 5 pts
 - [ ] Navigate to a website selected by the instructor - 5 pts
+- [ ] Open a new tab
 - [ ] Use Google to search for something that is determined by the instructor - 2 pts
 - [ ] Scroll down to the bottom of the search results page - 2 pts
 
